@@ -1,6 +1,6 @@
 # Jon's Dotfiles
 
-This repo contains all config that Jon uses on his personal computer, feel free to use or add contributions, current specifications:
+This repo contains all of the configs that Jon uses on his machine, feel free to use or add contributions, Jon's machine specifications:
 
 ```
              /////////////                neo@neo-linux 
