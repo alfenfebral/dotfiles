@@ -1,0 +1,12 @@
+# rofi config
+bindsym $mod+d exec --no-startup-id "rofi -show combi -combi-modi 'window,drun' -modi combi"
+
+exec --no-startup-id tilix
+exec --no-startup-id brave-browser 
+
+assign [class="Brave"] $ws1
+assign [class="Tilix"] $ws2
+assign [class="NoSQLBooster"] $ws3
+assign [class="pgadmin4"] $ws3
+assign [class="Postman"] $ws4
+

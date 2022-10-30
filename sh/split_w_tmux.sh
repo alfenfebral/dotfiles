@@ -1,0 +1,11 @@
+#!/bin/sh
+
+tmux splitw
+tmux splitw -h
+tmux select-pane -t 0
+tmux splitw -h
+tmux select-pane -t 0 
+tmux select-pane -t 1 
+clear
+tmux select-pane -t 0 
+clear
