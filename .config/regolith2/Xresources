@@ -3,18 +3,18 @@ i3-wm.bar.position:	bottom
 regolith.look.path: /usr/share/regolith-look/blackhole
 i3-wm.workspace.01.name: 1 BROWSER
 i3-wm.workspace.02.name: 2 CODE
-i3xrocks.label.wifi: W
-i3xrocks.label.wired: C
+! i3xrocks.label.wifi: W
+! i3xrocks.label.wired: C
 gnome.terminal.font: FiraCode Nerd Font Regular 12
 gtk.font_name: Ubuntu 11
-i3xrocks.label.sound: V
-i3xrocks.label.cpu: C
-i3xrocks.label.battery100: B
-i3xrocks.label.battery20: B
-i3xrocks.label.battery50: B
-i3xrocks.label.battery80: B
-i3xrocks.label.batteryac: BC
-i3xrocks.label.batterycharging: BC
-i3xrocks.label.time: T
+! i3xrocks.label.sound: V
+! i3xrocks.label.cpu: C
+! i3xrocks.label.battery100: B
+! i3xrocks.label.battery20: B
+! i3xrocks.label.battery50: B
+! i3xrocks.label.battery80: B
+! i3xrocks.label.batteryac: BC
+! i3xrocks.label.batterycharging: BC
+! i3xrocks.label.time: T
 i3-wm.binding.display: ''
 regolith.wallpaper.file: /home/neo/Pictures/wp.jpg
