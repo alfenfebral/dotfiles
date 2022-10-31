@@ -1,8 +1,9 @@
-require("symbols-outline").setup {
-  autofold_depth = 4,
-} -- TODO move to config
-
+-- require("symbols-outline").setup {
+--   autofold_depth = 4,
+-- } -- TODO move to config
+--
 return {
+  ["rvmelkonian/move.vim"] = {},
   ["tpope/vim-fugitive"] = {},
   ["f-person/git-blame.nvim"] = {},
   ["sbdchd/neoformat"] = {},
@@ -37,8 +38,6 @@ return {
       require "plugins.configs.lspconfig"
       require "custom.plugins.lspconfig"
     end,
-    setup = function()
-    end
   },
   ["NvChad/ui"] = {
     override_options = {
