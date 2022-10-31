@@ -17,6 +17,7 @@ local servers = {
   "hls",
   "yamlls",
   "elixirls",
+  "move_analyzer",
 }
 
 for _, lsp in ipairs(servers) do
